@@ -1,2 +1,2 @@
 # Social-Blog
-My first blog page created using flask
+My first blog web app  created using flask...!!
