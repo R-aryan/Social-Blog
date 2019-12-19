@@ -7,9 +7,9 @@ This project requires **Python 3.0 or above for the purpose** and the following 
 
 - [For Python Latest version Checkout this Link](https://www.python.org/downloads/)
 
-alembic==1.3.2
-certifi==2019.11.28
-Click==7.0
+- alembic==1.3.2
+- certifi==2019.11.28
+- Click==7.0
 Flask==1.1.1
 Flask-Login==0.4.1
 Flask-Migrate==2.4.0
